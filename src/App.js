@@ -8,12 +8,12 @@ const App = () => (
   <div>
     <Navbar />
     <Header />
+    <Gallery />
     <AboutUs />
     <SpecialMenu />
     <Chef />
     <Intro />
     <Laurels />
-    <Gallery />
     <Footer />
   </div>
 );

@@ -5,12 +5,9 @@
 .app__header-h1 {
     font-family: var(--font-base);
     color: var(--color-golden);
-    letter-spacing: 0.04em;
+    letter-spacing: 0.017em;
     text-transform: uppercase;
     line-height: 117px;
-    font-size: 90px;
-}
-
-.app__header-img img {
-    width: 80%;
+    font-size: 70px;
+    width: 82%;
 }
